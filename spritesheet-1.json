@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"image": "spritesheet-1.png",
+		"size": {"w":816,"h":559},
+		"scale": "1"
+	},
+	"frames": {
+		"FeatureExitMessage.png":
+		{
+			"frame": {"x":0,"y":0,"w":816,"h":559},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":816,"h":559},
+			"sourceSize": {"w":816,"h":559}
+		}
+	}
+}
